@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @luisamoroso
+# Hi 👋 
 - 👀 I’m interested in UI Ecosystems
-- 🌱 I’m currently learning: SvelteKit, Vite, Tailwind, Bulma
+- 🌱 I’m currently learning: SvelteKit, Vite, Tailwind
 - 💞️ I’m looking to collaborate on web frontend initiaves
 - 📫 How to reach me: https://luisamoroso.de 
 
